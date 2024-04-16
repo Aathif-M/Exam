@@ -1158,9 +1158,11 @@ hr.header-top {
     }
 
     .insurance .right-column-row-2 .col-11 {
-        -ms-flex: 0 0 91%;
-        flex: 0 0 91%;
-        max-width: 91%;
+        -ms-flex: 0 0 87%;
+        flex: 0 0 87%;
+        max-width: 87%;
+        display: flex;
+        align-items: center;
     }
 
     .insurance .row-2 {
