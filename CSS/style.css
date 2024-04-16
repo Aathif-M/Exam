@@ -307,7 +307,7 @@ header ul a.active {
 /* ===============HERO SECTION============== */
 .hero-section {
     /* min-height: 893px; */
-    background-image: url("/Images/team-banner.png");
+    background-image: url("../Images/team-banner.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -401,7 +401,7 @@ header ul a.active {
 @media(max-width:576px) {
     .hero-section {
         /* min-height: 893px; */
-        background-image: url("/Images/team-banner-1.png");
+        background-image: url("../Images/team-banner-1.png");
         background-size: contain;
         background-repeat: no-repeat;
     }
@@ -651,7 +651,7 @@ hr.header-top {
 
 /* ==========COMFORT SECTION============ */
 .comfort {
-    background-image: url("/Images/Depositphotos_314934790_l-2015-edited.png");
+    background-image: url("../Images/Depositphotos_314934790_l-2015-edited.png");
     background-position: right;
     background-size: cover;
     background-repeat: no-repeat;
@@ -679,7 +679,7 @@ hr.header-top {
     }
 
     .comfort-mobile {
-        background-image: url("/Images/Depositphotos_-1.png");
+        background-image: url("../Images/Depositphotos_-1.png");
         background-repeat: no-repeat;
         background-size: cover;
         min-height: 300px;
@@ -800,7 +800,7 @@ hr.header-top {
 
 /* ==========WHY CHOOSE US========= */
 .why-choose-us {
-    background-image: url("/Images/14100326_1283549718352205_6147979143491776623_n-edited.png");
+    background-image: url("../Images/14100326_1283549718352205_6147979143491776623_n-edited.png");
 }
 
 .why-choose-us .overlay {
@@ -916,7 +916,7 @@ hr.header-top {
 }
 
 .insurance-inner {
-    background: url("/Images/office-bg.png");
+    background: url("../Images/office-bg.png");
     background-position: center;
     background-size: cover;
 }
